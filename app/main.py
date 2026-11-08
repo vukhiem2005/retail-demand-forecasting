@@ -218,7 +218,7 @@ with st.sidebar:
     st.divider()
     st.link_button(
         "View Source on GitHub",
-        "https://github.com/khimneae/retail-demand-forecasting",
+        "https://github.com/vankhiem1609/retail-demand-forecasting",
         icon=":material/open_in_new:",
         width="stretch",
     )

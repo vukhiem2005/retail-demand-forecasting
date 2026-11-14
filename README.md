@@ -2,7 +2,7 @@
 
 ### Live Application
 
-**[Launch Live Demo](https://retail-demand-forecasting-wxzynardzz5nu74kmc99zr.streamlit.app/)** | **[View Source Code](https://github.com/vankhiem1609/retail-demand-forecasting)**
+**[Launch Live Demo](https://retail-demand-ai-vukhiem2005.streamlit.app/)** | **[View Source Code](https://github.com/vukhiem2005/retail-demand-forecasting)**
 
 > **Demo Mode:** The live application uses independently generated synthetic retail sales data. The reported machine learning evaluation results were obtained from the original Kaggle dataset. Forecasts generated using synthetic data are illustrative and have not been separately validated.
 
@@ -152,7 +152,7 @@ retail-demand-forecasting/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/vankhiem1609/retail-demand-forecasting.git
+git clone https://github.com/vukhiem2005/retail-demand-forecasting.git
 cd retail-demand-forecasting
 ```
 
